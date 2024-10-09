@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qegeteyawoe.pages.dev/sitemap.xml
